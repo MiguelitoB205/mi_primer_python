@@ -1,0 +1,5 @@
+thistuple=(1,3,45,6,7,8,4,9,0)
+x = thistuple.count(9)
+y = thistuple.index(8)
+print(x)
+print(y)
